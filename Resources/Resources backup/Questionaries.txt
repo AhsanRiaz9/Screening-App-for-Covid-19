@@ -1,0 +1,40 @@
+Questions:
+1. Do you have Fever above 101.4?
+2. Do you have Cough - (Dry Cough)?
+3. Do you have Cough - (Wet Cough)?
+4. Do you have Shortness of Breath?
+5. Do you have Flu?
+6. Have you travelled abroad in the last 15 days?
+7. Have you been in contact with any person who has recently travelled internationally?
+8. Do you have chest infection?
+9. Is your age more than or equal to 60 years of age?
+10. Due to Co-morbidities, do you take any medicine?
+
+Result Calculation:
+If q1, q2, q4, q8, q9, q6 = yes and 3, q5, q7, q10 = yes/no then result 1 
+If q2, q1, a4 = yes and q3, q6, q5, q7, q10 = yes/no and q8, q9 = yes/no then result 2 
+Otherwise show the result 3
+
+Result 1: High Probability of Corona!
+1.	Isolate From Others
+2.	Rest and Take Care
+3.	Call Work Health Providers
+4.	Monitor Symptoms
+5.	Talk to Someone About Testing
+6.	Follow Govt Instructions
+As of now, your answers suggest that you may need testing. If anything changes, take the questionnaire again.
+
+Result 2: Suspected for Corona!
+1.	Isolate From Others
+2.	Rest and Take Care
+3.	Call Work Health Providers
+4.	Monitor Symptoms
+5.	Talk to Someone About Testing
+6.	Follow Govt Instructions
+As of now, your answers suggest that you may need testing. If anything changes, take the questionnaire again.
+
+Result 3: You are all Good!
+1.	No Test Needed At This Time
+2.	Maintain Social Distance
+3.	Avoid groups of people and keep six feet apart from anyone who’s not part of the household. Especially avoid those showing symptoms.
+As of now, their answers suggest they do not need to get tested. If anything changes, take the questionnaire again.
